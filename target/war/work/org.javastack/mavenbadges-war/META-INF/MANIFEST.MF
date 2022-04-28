@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: mavenbadges-war
+Implementation-Version: 1.0.1
+Built-By: maven
+Build-Jdk-Spec: 1.8
+Created-By: Maven WAR Plugin 3.3.0
+
