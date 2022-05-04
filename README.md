@@ -50,7 +50,7 @@ Below I made a list that elencates every possible operation:
 ***
 ## Requesting operation to the server:
 To actually make a request to the server, follow the below syntax:
-> localhost:8080/Servlet/Calculator/"operation"?param1=&param2=
+>https://localhost:8080/Servlet/Calculator/"operation"?param1=value&param2=value
 
 Where "operation" is the mathematical function you want to apply.
 ***
